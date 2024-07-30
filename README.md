@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HoneyTweet
-- 👀 I’m interested working in Software QA Engineering open source project 
+- 👀 I’m interested in contributing to open source in Software Quality Assurance
 - 🌱 I’m currently working to improve the skill of manual and automation Software QA 
 - 💞️ I’m looking to collaborate on Software QA open source project
 - 📫 How to reach me ...
