@@ -1,5 +1,3 @@
-
-
 I'm a passionate software tester based in the beautiful land of the greater Pacific Northwest, USA. 
 I am a positive-thinking person who possesses two sides of power. Analytical thinking and colaborating with other to solve problems.
 
